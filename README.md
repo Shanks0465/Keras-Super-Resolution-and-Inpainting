@@ -12,3 +12,6 @@ Model Architecture:
         - Keras
         - Tensorflow
         - Numpy
+
+Super Resolution Output:
+![SuperResOutput](https://github.com/Shanks0465/Keras-Super-Resolution-and-Inpainting/blob/master/images/SuperResOutput.PNG)

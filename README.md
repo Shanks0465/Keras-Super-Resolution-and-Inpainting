@@ -15,3 +15,6 @@
 
 - Super Resolution Output:
 ![SuperResOutput](https://github.com/Shanks0465/Keras-Super-Resolution-and-Inpainting/blob/master/images/SuperResOutput.PNG)
+
+- Image Inpainting Output:
+![ImageInpaintOutput](https://github.com/Shanks0465/Keras-Super-Resolution-and-Inpainting/blob/master/images/ImageInpaintOutput.PNG)

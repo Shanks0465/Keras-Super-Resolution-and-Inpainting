@@ -7,8 +7,8 @@ Model Architecture:
 - Packages Used:
 
         - OpenCV
-        -Skimage
-        -Matplotlib
-        -Keras
-        -Tensorflow
-        -Numpy
+        - Skimage
+        - Matplotlib
+        - Keras
+        - Tensorflow
+        - Numpy

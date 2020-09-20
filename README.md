@@ -12,6 +12,3 @@ Model Architecture:
         -Keras
         -Tensorflow
         -Numpy
-      
-        
-        -

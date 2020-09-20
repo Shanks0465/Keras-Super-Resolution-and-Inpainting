@@ -1,7 +1,7 @@
 # Keras-Super-Resolution-and-Inpainting
-An Autoencoder based Implementation for Super Resolution and Image Inpainting
+- An Autoencoder based Implementation for Super Resolution and Image Inpainting
 
-Model Architecture:
+- Model Architecture:
 ![Autoencoder Architecture](https://github.com/Shanks0465/Keras-Super-Resolution-and-Inpainting/blob/master/images/superres_model_plot.png)
 
 - Packages Used:
@@ -13,5 +13,5 @@ Model Architecture:
         - Tensorflow
         - Numpy
 
-Super Resolution Output:
+- Super Resolution Output:
 ![SuperResOutput](https://github.com/Shanks0465/Keras-Super-Resolution-and-Inpainting/blob/master/images/SuperResOutput.PNG)
